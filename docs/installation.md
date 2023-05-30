@@ -58,7 +58,7 @@ First make sure that you have the following dependencies installed:
 
 ```bash
 # Ubuntu (clang version will vary depending on Ubuntu version)
-apt install ccache cmake libyaml-cpp-dev clang-12 libclang-12-dev libclang-cpp12-dev
+apt install ccache cmake libyaml-cpp-dev clang-12 libclang-12-dev libclang-cpp12-dev pkg-config
 ```
 
 Then proceed with building the sources:
